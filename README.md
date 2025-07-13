@@ -41,7 +41,7 @@
 </table>
 <table>
   <tbody>
-    <td width="14.28%" align="center">
+    <td width="20.28%" align="center">
         <span>HTML</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
@@ -58,10 +58,6 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/uikit.svg">
       </td>
     <td width="14.28%" align="center">
-        <span>MYSQL</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
-    </td>
-    <td width="14.28%" align="center">
         <span>NodeJs</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
     </td>
@@ -72,6 +68,10 @@
 <table>
   <tbody>
     <tr valign="top">
+      <td width="14.28%" align="center">
+        <span>MYSQL</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
+      </td>
       <td width="14.28%" align="center">
         <span>jQuery</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/jquery.svg">
