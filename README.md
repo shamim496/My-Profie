@@ -32,6 +32,10 @@
         <span>PHP</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
       </td>
+      <td width="14.28%" align="center">
+        <span>JavaScript</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
     </tr>
       </tbody>
 </table>
@@ -40,10 +44,6 @@
     <td width="14.28%" align="center">
         <span>MYSQL</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
-      </td>
-       <td width="14.28%" align="center">
-        <span>JavaScript</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
        <td width="14.28%" align="center">
         <span>jQuery</span><br><br><br>
