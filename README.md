@@ -72,7 +72,7 @@
 <p align="center">
   <samp>
     <br><br>☕ Wanna chat? 👉 @ me on
-    <a href="https://t.me/shamim496" target=”_blank”>
+    <a href="https://t.me/shamimhasan496" target=”_blank”>
       <img src="https://cdn.svgporn.com/logos/telegram.svg" style="padding-top:10px"  width="20px"></a>
   </samp>
 </p>`
