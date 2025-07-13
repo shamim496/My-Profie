@@ -77,10 +77,6 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
       </td>
       <td width="14.28%" align="center">
-        <span>Materialize</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/materializecss.svg">
-      </td>
-      <td width="14.28%" align="center">
         <span>SASS</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
       </td>
