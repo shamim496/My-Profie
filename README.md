@@ -46,6 +46,18 @@
 <table>
   <tbody>
     <td width="14.28%" align="center">
+        <span>HTML</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+      </td>
+      <td width="14.28%" align="center">
+        <span>CSS</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      </td>
+      <td width="14.28%" align="center">
+        <span>UIkit</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/uikit.svg">
+      </td>
+    <td width="14.28%" align="center">
         <span>MYSQL</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
     </td>
@@ -64,18 +76,6 @@
 <table>
   <tbody>
     <tr valign="top">
-       <td width="14.28%" align="center">
-        <span>HTML</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="14.28%" align="center">
-        <span>CSS</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="14.28%" align="center">
-        <span>UIkit</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/uikit.svg">
-      </td>
       <td width="14.28%" align="center">
         <span>BootsTrap</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
