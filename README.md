@@ -1,4 +1,4 @@
-`<h1 align="center">Hi 👋, I'm Shamim Hasan</h1>
+<h1 align="center">Hi 👋, I'm Shamim Hasan</h1>
 <h3 align="center">Software Engineer of <a href='https://bdthemes.com'>BDTHEMES</a></h3>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shamim496&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=onedark" alt="shamim496" />
@@ -75,6 +75,4 @@
     <a href="https://t.me/shamimhasan496" target=”_blank”>
       <img src="https://cdn.svgporn.com/logos/telegram.svg" style="padding-top:10px"  width="20px"></a>
   </samp>
-</p>`
-message.txt
-3 KB
+</p>
