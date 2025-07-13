@@ -12,23 +12,23 @@
 <table>
   <tbody>
     <tr valign="top">
-       <td width="14.28%" align="center">
+       <td width="20%" align="center">
         <span>WordPress</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/wordpress-icon.svg">
       </td> 
-      <td width="14.28%" align="center">
+      <td width="20%" align="center">
         <span>WooCommerce</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/woocommerce-icon.svg">
       </td>
-      <td width="14.28%" align="center">
+      <td width="20%" align="center">
         <span>Elementor</span><br><br><br>
         <img height="60px" src="https://elementor.com/wp-content/uploads/2022/07/Elementor-Logo-Symbol-Blue.svg">
       </td>
-      <td width="14.28%" align="center">
+      <td width="20%" align="center">
         <span>Gutenberg</span><br><br><br>
         <img height="60px" src="https://s.w.org/images/core/2020/06/Gutenberg-mark.svg">
       </td>
-       <td width="14.28%" align="center">
+       <td width="20%" align="center">
         <span>PHP</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
       </td>
