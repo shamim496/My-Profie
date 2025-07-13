@@ -26,7 +26,7 @@
       </td>
       <td width="14.28%" align="center">
         <span>Gutenberg</span><br><br><br>
-        <img height="60px" src="https://elementor.com/wp-content/uploads/2022/07/Gutenberg-Logo-Symbol-Blue.svg">
+        <img height="60px" src="https://s.w.org/images/core/2020/06/Gutenberg-mark.svg">
       </td>
        <td width="14.28%" align="center">
         <span>PHP</span><br><br><br>
