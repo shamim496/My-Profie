@@ -26,7 +26,7 @@
       </td>
       <td width="14.28%" align="center">
         <span>Gutenberg</span><br><br><br>
-        <img height="60px" src="https://borlabs.io/wp-content/uploads/2019/03/blog-gutenberg-1.png">
+        <img style="filter: brightness(0) invert(1);" height="60px" src="https://borlabs.io/wp-content/uploads/2019/03/blog-gutenberg-1.png">
       </td>
        <td width="14.28%" align="center">
         <span>PHP</span><br><br><br>
