@@ -65,10 +65,6 @@
         <span>NodeJs</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
     </td>
-    <td width="14.28%" align="center">
-        <span>jQuery</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/jquery.svg">
-    </td>
     </tr>
   </tbody>
 </table>
