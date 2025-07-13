@@ -36,6 +36,14 @@
         <span>JavaScript</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
+      <td width="14.28%" align="center">
+        <span>jQuery</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/jquery.svg">
+      </td>
+      <td width="14.28%" align="center">
+        <span>React</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+      </td>
     </tr>
       </tbody>
 </table>
@@ -44,14 +52,6 @@
     <td width="14.28%" align="center">
         <span>MYSQL</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
-      </td>
-       <td width="14.28%" align="center">
-        <span>jQuery</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/jquery.svg">
-      </td>
-      <td width="14.28%" align="center">
-        <span>React</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
     <td width="14.28%" align="center">
         <span>NodeJs</span><br><br><br>
