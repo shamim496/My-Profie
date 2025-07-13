@@ -80,8 +80,6 @@
         <span>GitHub</span><br><br>
         <img height="60" src="https://cdn.svgporn.com/logos/github-icon.svg" alt="GitHub">
       </td>
-      <td width="14.28%"></td>
-      <td width="14.28%"></td>
     </tr>
   </tbody>
 </table>
