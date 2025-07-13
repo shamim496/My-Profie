@@ -3,8 +3,8 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shamim496&row=1&column=7&margin-w=15&margin-h=15&theme=prussian" alt="shamim496" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamim496&layout=compact&theme=prussian&langs_count=8&card_width=370" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shamim496&rank_icon=github&theme=prussian&card_width=250" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamim496&layout=compact&theme=prussian&langs_count=8&card_width=370" />
 </p>
 
 ### 👨‍💻 Skills
