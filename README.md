@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shamim Hasan</h1>
 <h3 align="center">Software Engineer of <a href='https://bdthemes.com'>BDTHEMES</a></h3>
 
-
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shamim496&row=1&column=7&margin-w=15&margin-h=15&theme=prussian" alt="shamim496" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamim496&layout=compact&theme=prussian&langs_count=8&card_width=370" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shamim496&rank_icon=github&theme=prussian&card_width=250" />
 </p>
-
-
 
 ### 👨‍💻 Skills
 
@@ -50,32 +46,12 @@
 <table>
   <tbody>
       <td width="14.28%" align="center">
-        <span>VueJs</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
-      </td>
-      <td width="14.28%" align="center">
-        <span>VuetifyJs</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vuetifyjs.svg">
-      </td>
-      <td width="14.28%" align="center">
         <span>React</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
     <td width="14.28%" align="center">
         <span>NodeJs</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
-      </td>
-      <td width="14.28%" align="center">
-        <span>MongoDB</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
-      </td>
-      <td width="14.28%" align="center">
-        <span>Firebase</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
-      </td>
-      <td width="14.28%" align="center">
-        <span>ExpressJs</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/express.svg">
       </td>
     </tr>
       </tbody>
