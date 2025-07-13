@@ -26,7 +26,7 @@
       </td>
       <td width="14.28%" align="center">
         <span>Gutenberg</span><br><br><br>
-        <img height="60px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwptavern.com%2Fgutenberg-15-7-adds-site-logo-upload-to-inspector-controls&psig=AOvVaw2Q322d_h81drKeYxxq2h5Y&ust=1752491792894000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCAlurauY4DFQAAAAAdAAAAABAE">
+        <img height="60px" src="https://cdn.svgporn.com/logos/gutenberg-icon.svg">
       </td>
        <td width="14.28%" align="center">
         <span>PHP</span><br><br><br>
