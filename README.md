@@ -24,6 +24,10 @@
         <span>Elementor</span><br><br><br>
         <img height="60px" src="https://elementor.com/wp-content/uploads/2022/07/Elementor-Logo-Symbol-Blue.svg">
       </td>
+      <td width="14.28%" align="center">
+        <span>Gutenberg</span><br><br><br>
+        <img height="60px" src="https://elementor.com/wp-content/uploads/2022/07/Gutenberg-Logo-Symbol-Blue.svg">
+      </td>
        <td width="14.28%" align="center">
         <span>PHP</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
