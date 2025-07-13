@@ -37,7 +37,6 @@
         <img height="60" src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript">
       </td>
     </tr>
-    <br>
     <tr align="center">
       <td width="14.28%">
         <span>HTML</span><br><br>
