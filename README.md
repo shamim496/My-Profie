@@ -41,7 +41,7 @@
 </table>
 <table>
   <tbody>
-    <td width="20.28%" align="center">
+    <td width="14.28%" align="center">
         <span>HTML</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
