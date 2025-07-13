@@ -32,7 +32,12 @@
         <span>PHP</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
       </td>
-        <td width="14.28%" align="center">
+    </tr>
+      </tbody>
+</table>
+<table>
+  <tbody>
+    <td width="14.28%" align="center">
         <span>MYSQL</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
       </td>
@@ -44,11 +49,6 @@
         <span>jQuery</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/jquery.svg">
       </td>
-    </tr>
-      </tbody>
-</table>
-<table>
-  <tbody>
       <td width="14.28%" align="center">
         <span>React</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
