@@ -36,10 +36,6 @@
         <span>JavaScript</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
-      <td width="14.28%" align="center">
-        <span>React</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
-      </td>
     </tr>
       </tbody>
 </table>
@@ -52,6 +48,10 @@
       <td width="14.28%" align="center">
         <span>CSS</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      </td>
+      <td width="14.28%" align="center">
+        <span>React</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
       <td width="14.28%" align="center">
         <span>UIkit</span><br><br><br>
@@ -77,6 +77,10 @@
   <tbody>
     <tr valign="top">
       <td width="14.28%" align="center">
+        <span>jQuery</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/jquery.svg">
+      </td>
+      <td width="14.28%" align="center">
         <span>BootsTrap</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
       </td>
@@ -89,7 +93,7 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/github-icon.svg">
       </td>
     </tr>
-      </tbody>
+  </tbody>
 </table>
 
 <p align="center">
