@@ -11,83 +11,77 @@
 
 <table>
   <tbody>
-    <tr valign="top">
-       <td width="14.28%" align="center">
-        <span>WordPress</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/wordpress-icon.svg">
-      </td> 
-      <td width="14.28%" align="center">
-        <span>WooCommerce</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/woocommerce-icon.svg">
+    <tr align="center">
+      <td width="14.28%">
+        <span>WordPress</span><br><br>
+        <img height="60" src="https://cdn.svgporn.com/logos/wordpress-icon.svg" alt="WordPress">
       </td>
-      <td width="14.28%" align="center">
-        <span>Elementor</span><br><br><br>
-        <img height="60px" src="https://elementor.com/wp-content/uploads/2022/07/Elementor-Logo-Symbol-Blue.svg">
+      <td width="14.28%">
+        <span>WooCommerce</span><br><br>
+        <img height="60" src="https://cdn.svgporn.com/logos/woocommerce-icon.svg" alt="WooCommerce">
       </td>
-      <td width="14.28%" align="center">
-        <span>Gutenberg</span><br><br><br>
-        <img style="filter: brightness(0) invert(1);" height="60px" src="https://borlabs.io/wp-content/uploads/2019/03/blog-gutenberg-1.png">
+      <td width="14.28%">
+        <span>Elementor</span><br><br>
+        <img height="60" src="https://elementor.com/wp-content/uploads/2022/07/Elementor-Logo-Symbol-Blue.svg" alt="Elementor">
       </td>
-       <td width="14.28%" align="center">
-        <span>PHP</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
+      <td width="14.28%">
+        <span>Gutenberg</span><br><br>
+        <img height="60" src="https://s.w.org/images/core/2020/06/Gutenberg-mark.svg" alt="Gutenberg">
       </td>
-      <td width="14.28%" align="center">
-        <span>JavaScript</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      <td width="14.28%">
+        <span>PHP</span><br><br>
+        <img height="60" src="https://cdn.svgporn.com/logos/php.svg" alt="PHP">
+      </td>
+      <td width="14.28%">
+        <span>JavaScript</span><br><br>
+        <img height="60" src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript">
       </td>
     </tr>
-      </tbody>
-</table>
-<table>
-  <tbody>
-    <td width="14.28%" align="center">
-        <span>HTML</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+    <tr align="center">
+      <td width="14.28%">
+        <span>HTML</span><br><br>
+        <img height="60" src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML">
       </td>
-      <td width="14.28%" align="center">
-        <span>CSS</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      <td width="14.28%">
+        <span>CSS</span><br><br>
+        <img height="60" src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS">
       </td>
-      <td width="14.28%" align="center">
-        <span>React</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+      <td width="14.28%">
+        <span>React</span><br><br>
+        <img height="60" src="https://cdn.svgporn.com/logos/react.svg" alt="React">
       </td>
-      <td width="14.28%" align="center">
-        <span>UIkit</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/uikit.svg">
+      <td width="14.28%">
+        <span>UIkit</span><br><br>
+        <img height="60" src="https://cdn.svgporn.com/logos/uikit.svg" alt="UIkit">
       </td>
-    <td width="14.28%" align="center">
-        <span>NodeJs</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
-    </td>
+      <td width="14.28%">
+        <span>NodeJS</span><br><br>
+        <img height="60" src="https://cdn.svgporn.com/logos/nodejs.svg" alt="NodeJS">
+      </td>
+      <td width="14.28%">
+        <span>MySQL</span><br><br>
+        <img height="60" src="https://cdn.svgporn.com/logos/mysql.svg" alt="MySQL">
+      </td>
     </tr>
-  </tbody>
-</table>
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="14.28%" align="center">
-        <span>MYSQL</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
+    <tr align="center">
+      <td width="14.28%">
+        <span>jQuery</span><br><br>
+        <img height="60" src="https://cdn.svgporn.com/logos/jquery.svg" alt="jQuery">
       </td>
-      <td width="14.28%" align="center">
-        <span>jQuery</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/jquery.svg">
+      <td width="14.28%">
+        <span>Bootstrap</span><br><br>
+        <img height="60" src="https://cdn.svgporn.com/logos/bootstrap.svg" alt="Bootstrap">
       </td>
-      <td width="14.28%" align="center">
-        <span>BootsTrap</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+      <td width="14.28%">
+        <span>SASS</span><br><br>
+        <img height="60" src="https://cdn.svgporn.com/logos/sass.svg" alt="SASS">
       </td>
-      <td width="14.28%" align="center">
-        <span>SASS</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
+      <td width="14.28%">
+        <span>GitHub</span><br><br>
+        <img height="60" src="https://cdn.svgporn.com/logos/github-icon.svg" alt="GitHub">
       </td>
-       <td width="14.28%" align="center">
-        <span>Github</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/github-icon.svg">
-      </td>
+      <td width="14.28%"></td>
+      <td width="14.28%"></td>
     </tr>
   </tbody>
 </table>
